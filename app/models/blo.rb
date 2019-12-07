@@ -1,0 +1,2 @@
+class Blo < ApplicationRecord
+end
